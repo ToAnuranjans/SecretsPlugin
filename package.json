@@ -1,0 +1,30 @@
+{
+    "name": "cordova.plugins.SecretsPlugin",
+    "version": "1.0.0",
+    "description": "Provides value for a key",
+    "cordova": {
+        "id": "cordova.plugins.SecretsPlugin",
+        "platforms": [
+            "ios",
+            "android"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "card.io",
+        "ecosystem:cordova",
+        "cordova-ios",
+        "cordova-android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ],
+    "author": "stc business app",
+    "license": "MIT License, see LICENSE for details"
+}
